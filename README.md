@@ -2,7 +2,7 @@ The idea of this project is to create an AI that can recognize if there is a cat
 
 Project Overview
 
-As stated previously the idea of the project is to create an AI (Artificial Inteligence) that can recognize if a picture has an cat or dog in it. An user can supply a picture of a dog or cat through the web app of this project and the AI model will recognize and write either cat or dog on the web app. This AI could be used in a lot of other apps, for example apps that track pets so it can recognize what kind of pet it is, or other similar apps.
+As stated previously the idea of the project is to create an AI (Artificial Inteligence) that can recognize if a picture has a cat or dog in it. A user can supply a picture of a dog or cat through the web app of this project and the AI model will recognize and write either cat or dog on the web app. This AI could be used in a lot of other apps, for example apps that track pets so it can recognize what kind of pet it is, or other similar apps.
 
 Logical View
 
