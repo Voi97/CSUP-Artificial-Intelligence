@@ -1,0 +1,9 @@
+import re
+import base64
+from PIL import Image
+from io import BytesIO
+
+def base64_to_pil(image_base64):
+    image_data = re.sub ('^data:image/.+;base64,', '',image_base64)
+    pil_image = Image.open(BytesIO(base64.b64decode(image_data)))
+    return pil_image
