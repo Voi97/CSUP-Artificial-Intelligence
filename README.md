@@ -1,4 +1,4 @@
-The idea of this project is to create an AI that can recognize if there is a dog,cat or Panda in a picture.
+The idea of this project is to create an AI that can recognize if there is a dog,cat or panda in a picture.
 
 Project Overview
 
